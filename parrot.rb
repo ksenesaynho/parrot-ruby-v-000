@@ -1,1 +1,1 @@
-def parrot(
+def parrot("ok", "bye girl", 
