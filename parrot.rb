@@ -1,5 +1,5 @@
-def parrot(name)
-  return "Hello, #{name}!"
+def parrot(bird)
+  return "Squawk!"
 end
 
-welcome("Jamie")
+welcome("bird")
